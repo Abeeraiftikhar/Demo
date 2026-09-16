@@ -1,5 +1,6 @@
 # Sahulat AI
 
+<img src="assets/brand/logo-full.png" alt="Sahulat AI - More Opportunities. Easier Access." width="320">
 
 **Pakistan Opportunity & Services Navigator** — tell it about your circumstances, and it tells you which government scholarships, jobs, skills courses and assistance programmes you are likely to qualify for, and exactly which condition decided it.
 
