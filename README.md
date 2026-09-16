@@ -14,6 +14,7 @@ Languages     English, Urdu, Roman Urdu
 ```
 
 ---
+**Live App** : https://sahulat-ai-pak-angels.streamlit.app/
 
 ## Why this exists
 
