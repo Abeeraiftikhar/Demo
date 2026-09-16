@@ -6,7 +6,6 @@
 
 Built for the Pak Angels Cohort 11 Hackathon. Runs offline, asks for no identifying data, and never lets a language model decide whether you are eligible.
 
-
 ```
 Status        30 curated records across 4 categories, all verified
 Tests         404 passing  (python -m unittest discover tests)
